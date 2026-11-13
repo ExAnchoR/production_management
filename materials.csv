@@ -1,0 +1,9 @@
+id,name,unit,stock_qty,unit_cost
+M101,Steel Tube 16-Gauge,meters,111.0,185.5
+M102,Plywood Sheet 18mm,sheets,34.0,850.0
+M103,Heavy Duty Screws,pcs,720.0,2.5
+M104,Industrial Contact Adhesive,liters,25.0,220.0
+M105,Matte Black Enamel Paint,liters,18.0,310.0
+M106,Clear Protective Sealant,liters,12.0,275.0
+M107,Wood Beam,pcs,30.0,223.0
+12313,fad,dd,342.0,21.0
